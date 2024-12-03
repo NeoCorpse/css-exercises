@@ -1,0 +1,19 @@
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.para {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.woah {
+    font-size: 24px;
+}
